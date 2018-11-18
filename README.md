@@ -1,2 +1,5 @@
 # example-repo
-Virsavia
+Author: Virsavia
+
+### Instructions
+You can find photos in photos directory.
