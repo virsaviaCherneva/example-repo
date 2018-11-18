@@ -1,2 +1,3 @@
 my document
 new line
+new line - 3 
